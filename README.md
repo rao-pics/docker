@@ -1,4 +1,4 @@
-![rao-pics](https://github.com/rao-pics/core/blob/develop/readme/preview.gif?raw=true)
+<h1 align="center">Rao Pics</h1>
 
 <p align='center'>
     <a href="https://github.com/rao-pics/core/blob/master/LICENSE" target="_blank">
