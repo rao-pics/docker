@@ -43,7 +43,7 @@ EagleUse({
 ## Docker 部署
 
 ```
-git clone https://github.com/rao-pics/core.git
+git clone https://github.com/rao-pics/docker.git
 ```
 
 修改 api volumes
